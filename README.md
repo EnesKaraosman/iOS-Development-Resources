@@ -6,6 +6,7 @@
 
 ### Utility
 
+* Codable: [learnappmaking](https://learnappmaking.com/codable-json-swift-how-to/), [hackingwithswift](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
 * View Preview: [1️⃣](https://useyourloaf.com/blog/xcode-previews-for-view-controllers/)
 
 ### Design Patterns
